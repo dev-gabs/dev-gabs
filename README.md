@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: **lefthanded**
 
-- 👨‍💻 (almost) Everything about me at [dev-gabs.github.io/myself](https://dev-gabs.github.io/myself)
+- 👨‍💻 (almost) Everything about me at [dev-gabs.github.io/myself](https://dev-gabs.github.io/myself) (under construction)
 
 <!--
 
